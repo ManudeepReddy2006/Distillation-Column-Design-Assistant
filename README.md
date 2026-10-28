@@ -81,6 +81,19 @@ A DWSIM flowsheet configured with the required material streams, shortcut column
 
 Additional setup instructions will be provided after the execution environment and flowsheet configuration are documented.
 
+## Screenshots
+**User Input**
+![User input](Screenshots/User_Input.png)
+
+**DWSIM Flowsheet**
+![DWSIM flowsheet](Screenshots/DWSIM_Flowsheet.png)
+
+**Shortcut_Results**
+![Shortcut results](Screenshots/Shortcut_Results.png)
+
+**Optimization_Results**
+![Optimization results](Screenshots/Optimization_Results.png)
+
 ## Limitations
 
 Simulation performance depends on the number of feed components and the convergence behavior of the rigorous column.
