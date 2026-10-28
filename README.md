@@ -94,16 +94,16 @@ Compatibility with other software versions has not yet been verified.
 
 ## Screenshots
 **User Input**
-![User input](Screenshots/User_Input.png)
+[User input](Screenshots/User_Input.png)
 
 **DWSIM Flowsheet**
-![DWSIM flowsheet](Screenshots/DWSIM_Flowsheet.png)
+[DWSIM flowsheet](Screenshots/DWSIM_Flowsheet.png)
 
 **Shortcut_Results**
-![Shortcut results](Screenshots/Shortcut_Results.png)
+[Shortcut results](Screenshots/Shortcut_Results.png)
 
 **Optimization_Results**
-![Optimization results](Screenshots/Optimization_Results.png)
+[Optimization results](Screenshots/Optimization_Results.png)
 
 ## DWSIM Flowsheet
 
