@@ -79,7 +79,6 @@ A compatible Python and .NET environment for the DWSIM Automation API.
 
 A DWSIM flowsheet configured with the required material streams, shortcut column, and rigorous column.
 
-Additional setup instructions will be provided after the execution environment and flowsheet configuration are documented.
 
 ## Screenshots
 **User Input**
@@ -113,3 +112,16 @@ Improved handling of convergence failures and invalid inputs.
 More efficient search strategies.
 
 Additional reporting of energy consumption and design comparisons.
+
+
+## Configuration
+
+Before running the program:
+
+1. Install DWSIM and configure a compatible Python/.NET environment.
+2. Update the DWSIM installation path in the Python script.
+3. Update the flowsheet file path to point to your local `.dwxmz` file.
+4. Ensure the flowsheet contains the simulation objects expected by the script.
+5. Run the Python script from the configured environment.
+
+The program has been developed around a specific DWSIM flowsheet configuration. Additional setup may be required before it can run on another computer.
