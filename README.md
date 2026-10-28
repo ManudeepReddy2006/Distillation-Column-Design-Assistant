@@ -79,6 +79,18 @@ A compatible Python and .NET environment for the DWSIM Automation API.
 
 A DWSIM flowsheet configured with the required material streams, shortcut column, and rigorous column.
 
+## Tested Environment
+
+The project was developed and tested in the following environment:
+
+- **Operating system:** Windows
+- **DWSIM:** 10.12
+- **Python:** 3.14.2
+- **Python.NET:** 3.1.0
+- **Thermodynamic property package:** Peng–Robinson
+
+Compatibility with other software versions has not yet been verified.
+
 
 ## Screenshots
 **User Input**
