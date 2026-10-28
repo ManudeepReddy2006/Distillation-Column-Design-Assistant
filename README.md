@@ -105,6 +105,17 @@ Compatibility with other software versions has not yet been verified.
 **Optimization_Results**
 ![Optimization results](Screenshots/Optimization_Results.png)
 
+## DWSIM Flowsheet
+
+The repository includes the DWSIM flowsheet used for the distillation column simulation.
+
+1. Download `distillation design.dwxmz` from the main repository.
+2. Open the file in DWSIM 10.12.
+3. Update the flowsheet file path in `Distillation_Design_Assistant.py` to match its location on your computer.
+4. Verify that the flowsheet object identifiers match those expected by the Python script before running the program.
+
+[Download the DWSIM flowsheet](Flowsheet/Distillation_design.dwxmz)
+
 ## Limitations
 
 Simulation performance depends on the number of feed components and the convergence behavior of the rigorous column.
